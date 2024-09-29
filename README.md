@@ -1,2 +1,2 @@
-# BogoBench
-A hardware benchmark tool using bogosort.
+# How
+It benchmarks your hardware using bogosort and computaional assignments.
